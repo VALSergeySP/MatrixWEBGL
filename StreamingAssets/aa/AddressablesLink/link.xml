@@ -1,6 +1,16 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="BG_Games.Sample.Scripts.Buttons.UnloadAllWindowsButton" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.HUD.HUDWindow" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.HUD.LayerTransitionToggleView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.HUD.PersonalInfoView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.HUD.ShopView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.HUD.StageBonusLineView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.HUD.StageBonusView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.CartItemView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.PINView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.Navigation.MoveByDirectionButtonView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveToNodeButtonView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.DetailedNodeInfoUIWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.FullNodeInfoUIWindow" preserve="all" />
@@ -10,11 +20,15 @@
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.NetworkTab" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.NotificationTab" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.SecurityTab" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.UserProfileButton" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.UserProfileInfoWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.UserProfileTab" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Utils.DebugDataView" preserve="all" />
     <type fullname="UI_window_loading_system.Views.ShowWindowButton" preserve="all" />
     <type fullname="UI_window_loading_system.Views.UIButton" preserve="all" />
     <type fullname="UI_window_loading_system.Views.UIWindow" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.eNodeInfoType" preserve="nothing" serialized="true" />
+    <type fullname="ConnectifyAffiliate.Features.TreeGenerator.eStatusType" preserve="nothing" serialized="true" />
     <type fullname="UI_window_loading_system.Animations.UIWindowAnimator" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
@@ -80,6 +94,7 @@
     <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
     <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
     <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
@@ -94,6 +109,10 @@
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.CanvasGroup" preserve="all" />
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="AYellowpaper.SerializedCollections">
+    <type fullname="AYellowpaper.SerializedCollections.SerializedDictionary`2" preserve="nothing" serialized="true" />
+    <type fullname="AYellowpaper.SerializedCollections.SerializedKeyValuePair`2" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.TextCoreFontEngineModule">
     <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
