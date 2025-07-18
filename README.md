@@ -4,6 +4,6 @@ This repository contains the WebGL build of Connectify, automatically deployed v
 
 **Play the game:** [Launch Connectify](https://valsergeysp.github.io/MatrixWEBGL/)
 
-Last updated: 2025-07-17 16:25:42 UTC
-Commit: a2d2be1cca269fd6de098f1989857a7dece2fbfc
-Branch: develop/iteration3
+Last updated: 2025-07-18 18:14:05 UTC
+Commit: bd2b440252cc51dfc10dd6273924a431d3355146
+Branch: feature/navigation-animations-fixes
