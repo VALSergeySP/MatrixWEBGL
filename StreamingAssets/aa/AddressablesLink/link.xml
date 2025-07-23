@@ -1,6 +1,7 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="BG_Games.Sample.Scripts.Buttons.UnloadAllWindowsButton" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.GlobalView.GlobalViewWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.HUD.HUDWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.HUD.LayerTransitionToggleView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.HUD.PersonalInfoView" preserve="all" />
@@ -8,13 +9,18 @@
     <type fullname="ConnectifyAffiliate.Features.HUD.StageBonusLineView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.HUD.StageBonusView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.CartItemView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopProductsView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopView" preserve="all" />
-    <type fullname="ConnectifyAffiliate.Features.InternalShop.PINView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.PINSProductView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.SlotProductView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveByDirectionButtonView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveToNodeButtonView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.DetailedNodeInfoUIWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.FullNodeInfoUIWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.ShortNodeInfoUIWindow" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.SphereStatistic.StatisticNavigationView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.SphereStatistic.StatisticWindow" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.SphereStatistic.UserStatsView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.FinancialTab" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.LoginRecordObject" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.NetworkTab" preserve="all" />
