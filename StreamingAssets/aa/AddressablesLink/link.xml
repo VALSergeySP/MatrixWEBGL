@@ -25,6 +25,7 @@
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.LoginRecordObject" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.NetworkTab" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.NotificationTab" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.PaymentMethodBar" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.SecurityTab" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.UserProfileButton" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.UserProfileInfoWindow" preserve="all" />
