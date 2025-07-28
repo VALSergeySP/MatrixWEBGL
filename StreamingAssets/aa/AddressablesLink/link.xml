@@ -10,6 +10,7 @@
     <type fullname="ConnectifyAffiliate.Features.HUD.StageBonusLineView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.HUD.StageBonusView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.CartItemView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopCartView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopProductsView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.PINSProductView" preserve="all" />
@@ -21,7 +22,9 @@
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.ShortNodeInfoUIWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.StatisticNavigationView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.StatisticWindow" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.SphereStatistic.ToggleColorChangerView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.UserStatsView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.SphereStatistic.WeeklyUserStatsView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.FinancialTab" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.LoginRecordObject" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.NetworkTab" preserve="all" />
