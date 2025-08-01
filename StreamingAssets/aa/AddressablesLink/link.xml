@@ -128,6 +128,9 @@
     <type fullname="UnityEngine.CanvasGroup" preserve="all" />
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
   </assembly>
+  <assembly fullname="Zenject, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Zenject.ZenAutoInjecter" preserve="all" />
+  </assembly>
   <assembly fullname="AYellowpaper.SerializedCollections">
     <type fullname="AYellowpaper.SerializedCollections.SerializedDictionary`2" preserve="nothing" serialized="true" />
     <type fullname="AYellowpaper.SerializedCollections.SerializedKeyValuePair`2" preserve="nothing" serialized="true" />
