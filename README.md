@@ -3,15 +3,15 @@
 This repository contains the WebGL build of Connectify, automatically deployed via GitHub Actions.
 
 ## 🎮 Play the Game
-**[Launch Connectify v0.1.3](https://valsergeysp.github.io/MatrixWEBGL/)**
+**[Launch Connectify v0.1.4](https://valsergeysp.github.io/MatrixWEBGL/)**
 
 ## 📋 Build Information
-- **Version:** 0.1.3
-- **Build:** 11
+- **Version:** 0.1.4
+- **Build:** 12
 - **Unity Version:** 6000.0.44f1
-- **Build Date:** 2025-08-04 18:32:03 UTC
-- **Commit:** [61d99190436069bfb70abbf4b6e4b9b3c85081c4](https://github.com/Studio-BG-Games/Matrix_WebGL/commit/61d99190436069bfb70abbf4b6e4b9b3c85081c4)
-- **Branch:** develop/iteration3
+- **Build Date:** 2025-08-05 11:28:29 UTC
+- **Commit:** [586df800994417eb3836e07dfef509903d273a43](https://github.com/Studio-BG-Games/Matrix_WebGL/commit/586df800994417eb3836e07dfef509903d273a43)
+- **Branch:** feature/postprocessing-test
 - **Version Bump:** patch
 
 ## 🔄 Version History
@@ -24,4 +24,4 @@ This build was automatically versioned using semantic versioning:
 Automatically deployed from the [main repository](https://github.com/Studio-BG-Games/Matrix_WebGL) using GitHub Actions.
 
 ---
-*Last updated: 2025-08-04 18:32:03 UTC*
+*Last updated: 2025-08-05 11:28:29 UTC*
