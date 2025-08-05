@@ -49,6 +49,9 @@
     <type fullname="ConnectifyAffiliate.Features.UserProfile.PaymentType" preserve="nothing" serialized="true" />
     <type fullname="UI_window_loading_system.Animations.UIWindowAnimator" preserve="nothing" serialized="true" />
   </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="OpenFileImage" preserve="all" />
+  </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
   </assembly>
