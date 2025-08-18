@@ -20,6 +20,8 @@
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveByDirectionButtonView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveToNodeButtonView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.DetailedNodeInfoUIWindow" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.FullNodeInfoUIWindow" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.ShortNodeInfoUIWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.StatisticNavigationView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.StatisticWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.ToggleColorChangerView" preserve="all" />
@@ -42,7 +44,9 @@
     <type fullname="UI_window_loading_system.Views.ShowWindowButton" preserve="all" />
     <type fullname="UI_window_loading_system.Views.UIButton" preserve="all" />
     <type fullname="UI_window_loading_system.Views.UIWindow" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.eNodeInfoType" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.Scripts.DTO.StatisticsPeriod" preserve="nothing" serialized="true" />
+    <type fullname="ConnectifyAffiliate.Features.TreeGenerator.eStatusType" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.PaymentType" preserve="nothing" serialized="true" />
     <type fullname="UI_window_loading_system.Animations.UIWindowAnimator" preserve="nothing" serialized="true" />
   </assembly>
