@@ -42,6 +42,7 @@
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.UserProfileInfoWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.UserProfileTab" preserve="all" />
     <type fullname="ConnectifyAffiliate.Utils.DebugDataView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Utils.LocalizationDropdown" preserve="all" />
     <type fullname="ConnectifyAffiliate.Utils.LocalizedTMPDropdown" preserve="all" />
     <type fullname="ConnectifyAffiliate.Utils.UIDropdown" preserve="all" />
     <type fullname="PinObject" preserve="all" />
