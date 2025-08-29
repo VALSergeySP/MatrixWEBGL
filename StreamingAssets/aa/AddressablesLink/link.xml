@@ -13,15 +13,22 @@
     <type fullname="ConnectifyAffiliate.Features.HUD.StageBonusLineView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.HUD.StageBonusView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.CartItemView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.GroupCartItemView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopCartView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopProductsView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopView" preserve="all" />
-    <type fullname="ConnectifyAffiliate.Features.InternalShop.PINSProductView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.NonStackableCartItemView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.NonStackableProductView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.SlotGroupProductView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.SlotGroupSubproductView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.SlotProductView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.StackableProductView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.TransactionHistoryItemView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.TransactionHistoryView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveByDirectionButtonView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveToNodeButtonView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.BlockUserItemView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.BlockUserWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.DetailedNodeInfoUIWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.FullNodeInfoUIWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.ShortNodeInfoUIWindow" preserve="all" />
@@ -45,11 +52,13 @@
     <type fullname="ConnectifyAffiliate.Utils.LocalizationDropdown" preserve="all" />
     <type fullname="ConnectifyAffiliate.Utils.LocalizedTMPDropdown" preserve="all" />
     <type fullname="ConnectifyAffiliate.Utils.UIDropdown" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Utils.UITextButton" preserve="all" />
     <type fullname="PinObject" preserve="all" />
     <type fullname="ProfileTabButton" preserve="all" />
     <type fullname="UI_window_loading_system.Views.ShowWindowButton" preserve="all" />
     <type fullname="UI_window_loading_system.Views.UIButton" preserve="all" />
     <type fullname="UI_window_loading_system.Views.UIWindow" preserve="all" />
+    <type fullname="UIPagination" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.eNodeInfoType" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.Scripts.DTO.StatisticsPeriod" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.TreeGenerator.eStatusType" preserve="nothing" serialized="true" />
@@ -69,11 +78,14 @@
     <type fullname="UnityEngine.Localization.Tables.StringTable" preserve="all" />
     <type fullname="UnityEngine.Localization.LocaleIdentifier" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Localization.Metadata.MetadataCollection" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.SmartFormatTag" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Localization.Tables.TableEntryData" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Localization.Tables.DistributedUIDGenerator" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Localization.Tables.SharedTableData/SharedTableEntry" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Localization.Events.UnityEventString" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Localization.LocalizedString" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.PersistentVariables.StringVariable" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.PersistentVariables.VariableNameValuePair" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Localization.Tables.TableEntryReference" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Localization.Tables.TableReference" preserve="nothing" serialized="true" />
   </assembly>
