@@ -15,7 +15,7 @@
     <type fullname="ConnectifyAffiliate.Features.InternalShop.GroupCartItemView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopCartView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopProductsView" preserve="all" />
-    <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.NonStackableCartItemView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.NonStackableProductView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.SlotGroupProductView" preserve="all" />
@@ -23,8 +23,7 @@
     <type fullname="ConnectifyAffiliate.Features.InternalShop.SlotProductView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.StackableCartItemView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.StackableProductView" preserve="all" />
-    <type fullname="ConnectifyAffiliate.Features.InternalShop.TransactionHistoryItemView" preserve="all" />
-    <type fullname="ConnectifyAffiliate.Features.InternalShop.TransactionHistoryView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.TransactionHistory.TransactionStatusView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveByDirectionButtonView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveToNodeButtonView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.BlockUserItemView" preserve="all" />
@@ -37,6 +36,7 @@
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.ToggleColorChangerView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.UserStatsView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.WeeklyUserStatsView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.UserProfile.Calendar.CalendarView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.DeleteCardButton" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.FinancialTab" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.Scripts.Views.LoginRecordObject" preserve="all" />
@@ -51,17 +51,21 @@
     <type fullname="ConnectifyAffiliate.Utils.DebugDataView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Utils.LocalizationDropdown" preserve="all" />
     <type fullname="ConnectifyAffiliate.Utils.LocalizedTMPDropdown" preserve="all" />
-    <type fullname="ConnectifyAffiliate.Utils.UIDropdown" preserve="all" />
     <type fullname="ConnectifyAffiliate.Utils.UITextButton" preserve="all" />
     <type fullname="PinObject" preserve="all" />
     <type fullname="ProfileTabButton" preserve="all" />
+    <type fullname="TransactionHistoryItemView" preserve="all" />
+    <type fullname="TransactionHistoryView" preserve="all" />
     <type fullname="UI_window_loading_system.Views.ShowWindowButton" preserve="all" />
     <type fullname="UI_window_loading_system.Views.UIButton" preserve="all" />
     <type fullname="UI_window_loading_system.Views.UIWindow" preserve="all" />
     <type fullname="UIPagination" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.HUD.EUserStatus" preserve="nothing" serialized="true" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.TransactionHistory.ETransactionStatus" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.eNodeInfoType" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.Scripts.DTO.StatisticsPeriod" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.TreeGenerator.eStatusType" preserve="nothing" serialized="true" />
+    <type fullname="ConnectifyAffiliate.Features.UserProfile.PaymentMethod" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.PaymentType" preserve="nothing" serialized="true" />
     <type fullname="UI_window_loading_system.Animations.UIWindowAnimator" preserve="nothing" serialized="true" />
   </assembly>
@@ -123,6 +127,7 @@
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
     <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
