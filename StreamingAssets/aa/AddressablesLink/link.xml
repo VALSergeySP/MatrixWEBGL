@@ -25,10 +25,8 @@
     <type fullname="ConnectifyAffiliate.Features.InternalShop.StackableProductView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.TransactionHistory.TransactionStatusView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveByDirectionButtonView" preserve="all" />
-    <type fullname="ConnectifyAffiliate.Features.Navigation.MoveToNodeButtonView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.BlockUserItemView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.BlockUserWindow" preserve="all" />
-    <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.DetailedNodeInfoUIWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.StatisticNavigationView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.StatisticWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.ToggleColorChangerView" preserve="all" />
