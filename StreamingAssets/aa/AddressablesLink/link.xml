@@ -63,6 +63,7 @@
     <type fullname="UI_window_loading_system.Views.UIWindow" preserve="all" />
     <type fullname="UIPagination" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.HUD.EUserStatus" preserve="nothing" serialized="true" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.EShopProductType" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.ETransactionStatus" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.eNodeInfoType" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.Scripts.DTO.StatisticsPeriod" preserve="nothing" serialized="true" />
