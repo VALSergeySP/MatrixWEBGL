@@ -27,12 +27,8 @@
     <type fullname="ConnectifyAffiliate.Features.InternalShop.StackableProductView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.TransactionHistory.TransactionStatusView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveByDirectionButtonView" preserve="all" />
-    <type fullname="ConnectifyAffiliate.Features.Navigation.MoveToNodeButtonView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.BlockUserItemView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.BlockUserWindow" preserve="all" />
-    <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.DetailedNodeInfoUIWindow" preserve="all" />
-    <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.FullNodeInfoUIWindow" preserve="all" />
-    <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.ShortNodeInfoUIWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.StatisticNavigationView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.StatisticWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.ToggleColorChangerView" preserve="all" />
@@ -65,9 +61,7 @@
     <type fullname="ConnectifyAffiliate.Features.HUD.EUserStatus" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.EShopProductType" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.ETransactionStatus" preserve="nothing" serialized="true" />
-    <type fullname="ConnectifyAffiliate.Features.NodeInfo.Scripts.Views.eNodeInfoType" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.SphereStatistic.Scripts.DTO.StatisticsPeriod" preserve="nothing" serialized="true" />
-    <type fullname="ConnectifyAffiliate.Features.TreeGenerator.eStatusType" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.PaymentMethod" preserve="nothing" serialized="true" />
     <type fullname="ConnectifyAffiliate.Features.UserProfile.PaymentType" preserve="nothing" serialized="true" />
     <type fullname="UI_window_loading_system.Animations.UIWindowAnimator" preserve="nothing" serialized="true" />
