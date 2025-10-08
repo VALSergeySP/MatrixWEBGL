@@ -20,6 +20,7 @@
     <type fullname="ConnectifyAffiliate.Features.InternalShop.InternalShopWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.NonStackableCartItemView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.NonStackableProductView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.ReserveUserWindow" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.SlotGroupProductView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.SlotGroupSubproductView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.SlotProductView" preserve="all" />
