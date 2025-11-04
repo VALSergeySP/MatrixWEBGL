@@ -26,6 +26,7 @@
     <type fullname="ConnectifyAffiliate.Features.InternalShop.SlotProductView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.StackableCartItemView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.StackableProductView" preserve="all" />
+    <type fullname="ConnectifyAffiliate.Features.InternalShop.TransactionHistory.LoadingCircleAnimator" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.InternalShop.TransactionHistory.TransactionStatusView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveByDirectionButtonView" preserve="all" />
     <type fullname="ConnectifyAffiliate.Features.Navigation.MoveToNodeButtonView" preserve="all" />
