@@ -1,0 +1,7 @@
+{
+  "apiBaseUrl": "https://rewardyou.dragonwisdom.cfd",
+  "apiUnilevelUrl": "https://unilevel.dragonwisdom.cfd",
+  "apiDashboardUrl": "https://connectify.dragonwisdom.cfd/dashboard",
+  "apiPinShopUrl" : "https://connectify.dragonwisdom.cfd/dashboard/shop/pin",
+  "apiSatShopUrl" : "https://connectify.dragonwisdom.cfd/dashboard/shop/sat"
+}
